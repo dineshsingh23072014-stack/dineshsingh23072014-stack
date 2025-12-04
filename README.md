@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Dinesh Singh 👋
 
-<!--
-**dineshsingh23072014-stack/dineshsingh23072014-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior .NET Full Stack Developer with 13+ years of experience  
+Expert in:
+- ASP.NET Core, Web API, Microservices
+- Angular, TypeScript
+- SQL Server, EF Core, Dapper
+- Azure, CI/CD, Docker
 
-Here are some ideas to get you started:
+### 🔥 Featured Projects
+- Payment Gateway Microservice
+- E-Commerce Web API
+- Angular Admin Dashboard
+- Background Job Processor using Hangfire
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact: dineshsingh23072014@gmail.com  
+💼 LinkedIn: [your-link](https://www.linkedin.com/in/dinesh-singh-47828225/)
