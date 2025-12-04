@@ -14,4 +14,4 @@ Expert in:
 - Background Job Processor using Hangfire
 
 📫 Contact: dineshsingh23072014@gmail.com  
-💼 LinkedIn: [your-link](https://www.linkedin.com/in/dinesh-singh-47828225/)
+💼 LinkedIn: [(https://www.linkedin.com/in/dinesh-singh-47828225/)
